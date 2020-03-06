@@ -1,0 +1,62 @@
+header h2 {
+  color: #CEC8FF; }
+  body {
+    font-family: "Open Sans", sans-serif;
+}
+h2, h3 {
+    font-family: "Sans-serif", cursive;
+}
+h6 {
+    font-family: "Sans-serif", cursive;
+    color: #30a2c5;
+}
+h2 {
+    color: #a037dd;
+}
+header h2 {
+    color: #CEC8FF;
+}
+.jumbotron {
+    margin:0;
+    padding: 10px;
+    background-image: linear-gradient(to right, #080808, #30a2c5, #ac7ab1);
+    color: white;
+}
+.site-footer {
+    background-image: linear-gradient(#cec8ff, white);
+    padding: 20px 0;
+}
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+.navbar {
+    background-image: linear-gradient(to right,  #080808,#dd377c,#30a2c5);
+}
+.tab-content {
+    border: 1px solid #ddd;
+    border-top: none;
+    padding: 10px;
+}
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.carousel {
+    border: solid #5637dd;
+}
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+body{
+
+    background-image:  url("/img/eyelashes.jpg");
+    opacity: 0.2;
+    background-color: snow;
+    background-repeat: no-repeat;
+    background-position: center; /* Center the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    opacity: 0.6;
+}
